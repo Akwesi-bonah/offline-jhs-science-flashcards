@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Training checkpoints and model weights (too large for git; share via Drive or a model hub)
+checkpoints/
+outputs/
+runs/
+*.ckpt
+*.h5
+*.keras
+*.weights.h5
+*.lora.h5
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.gguf
+*.tflite
+models/
+hf_export/
+
+# Kaggle / Colab credentials
+kaggle.json
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

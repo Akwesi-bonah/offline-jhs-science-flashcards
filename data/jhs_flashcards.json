@@ -1,0 +1,905 @@
+[
+  {
+    "category": "Integrated Science",
+    "name": "Photosynthesis",
+    "question": "What is photosynthesis?",
+    "answer": "Photosynthesis is the process by which green plants make their own food. The green pigment chlorophyll in the leaves traps energy from sunlight, and the leaf uses this energy to turn carbon dioxide from the air and water from the soil into glucose, releasing oxygen. This is why plants are called producers in a food chain.",
+    "source": "hand-written seed (edited in QA)"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "States of matter",
+    "question": "What are the three states of matter?",
+    "answer": "The three states of matter are solid, liquid and gas. A solid has a fixed shape and volume, a liquid has a fixed volume but takes the shape of its container, and a gas has no fixed shape or volume. For example, ice, water and steam are the same substance in three different states.",
+    "source": "hand-written seed"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Malaria",
+    "question": "How is malaria spread?",
+    "answer": "Malaria is caused by a tiny parasite called Plasmodium and is spread by the bite of an infected female Anopheles mosquito. People can reduce the risk by sleeping under treated mosquito nets, clearing stagnant water where mosquitoes breed, and getting tested and treated early at a health centre.",
+    "source": "hand-written seed"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Conductors and insulators",
+    "question": "What is the difference between a conductor and an insulator?",
+    "answer": "A conductor is a material that allows electricity or heat to pass through it easily, such as copper or aluminium. An insulator does not allow electricity or heat to pass through easily, such as plastic, rubber or dry wood. This is why electrical wires are made of copper and covered with plastic.",
+    "source": "hand-written seed"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Soil erosion",
+    "question": "What is soil erosion?",
+    "answer": "Soil erosion is the removal of the fertile top layer of soil by water or wind. It is made worse by cutting down trees, overgrazing and bush burning. Farmers can reduce it by planting cover crops, building contour ridges and planting trees, which help keep the soil in place.",
+    "source": "hand-written seed"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Living and non-living things",
+    "question": "What are the characteristics of living things?",
+    "answer": "Living things move, respire, are sensitive to their surroundings, grow, reproduce, excrete waste and need nutrition. A simple way to remember them is MRS GREN. Non-living things such as stones do not show all of these characteristics.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "The cell",
+    "question": "What is a cell?",
+    "answer": "A cell is the smallest unit of life and the basic building block of all living things. Some organisms, like bacteria, are made of just one cell, while plants and animals are made of millions of cells working together.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Plant and animal cells",
+    "question": "How is a plant cell different from an animal cell?",
+    "answer": "A plant cell has a cell wall, chloroplasts and usually one large vacuole. An animal cell has no cell wall or chloroplasts and has small vacuoles. Both have a nucleus, cytoplasm and a cell membrane.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Respiration",
+    "question": "What is respiration?",
+    "answer": "Respiration is the process in which living cells break down food, usually glucose, to release energy. In aerobic respiration, oxygen is used and carbon dioxide and water are produced. This energy is used for growth, movement and other life processes.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Breathing and respiration",
+    "question": "Is breathing the same as respiration?",
+    "answer": "No. Breathing is the movement of air into and out of the lungs. Respiration is the chemical process inside cells that releases energy from food. Breathing supplies the oxygen that respiration needs.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Food chain",
+    "question": "What is a food chain?",
+    "answer": "A food chain shows how energy passes from one living thing to another through feeding. It starts with a producer, such as grass, which is eaten by a consumer, such as a grasshopper, which may then be eaten by a bird. Arrows show the direction energy flows.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Producers and consumers",
+    "question": "What is the difference between a producer and a consumer?",
+    "answer": "A producer is a living thing that makes its own food, like green plants through photosynthesis. A consumer cannot make its own food and must eat plants or other animals. Herbivores, carnivores and omnivores are all consumers.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Decomposers",
+    "question": "What do decomposers do?",
+    "answer": "Decomposers, such as fungi and some bacteria, break down dead plants and animals. This returns nutrients to the soil so that new plants can use them. Without decomposers, dead material would pile up and nutrients would not be recycled.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "The water cycle",
+    "question": "What is the water cycle?",
+    "answer": "The water cycle is the continuous movement of water on Earth. Water evaporates from seas, rivers and plants, condenses into clouds, and falls back as rain. The rain flows into rivers and the ground, and the cycle starts again.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Evaporation",
+    "question": "What is evaporation?",
+    "answer": "Evaporation is the change of a liquid into a gas at its surface. It can happen at any temperature below the boiling point, which is why a wet cloth dries in the sun without boiling. Evaporation happens faster on hot, dry and windy days.",
+    "source": "synthetic (Claude), needs teacher review (edited in QA)"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Condensation",
+    "question": "What is condensation?",
+    "answer": "Condensation is the change of a gas into a liquid when it cools. For example, droplets form on the outside of a cold bottle of water because water vapour in the air cools and turns back into liquid. Clouds also form by condensation.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Melting and freezing",
+    "question": "What is the difference between melting and freezing?",
+    "answer": "Melting is the change from a solid to a liquid when heat is added, such as ice turning into water. Freezing is the opposite change, from a liquid to a solid when heat is removed. Pure water melts and freezes at 0 degrees Celsius.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Mixtures",
+    "question": "What is a mixture?",
+    "answer": "A mixture is made of two or more substances that are combined but not chemically joined. Each substance keeps its own properties and can be separated by physical methods. Examples include sand and water, salt solution, and air.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Separating mixtures",
+    "question": "How can you separate sand from water?",
+    "answer": "Sand can be separated from water by filtration. The mixture is poured through filter paper or a cloth; the water passes through while the sand stays behind. Letting the sand settle and carefully pouring off the water, called decantation, also works.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Evaporating a solution",
+    "question": "How can you get salt back from salt water?",
+    "answer": "Salt can be recovered from salt water by evaporation. When the salt water is heated, the water turns into vapour and leaves, and the salt crystals remain. This is how salt is produced from seawater in salt pans along the coast.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Elements and compounds",
+    "question": "What is the difference between an element and a compound?",
+    "answer": "An element is a pure substance made of only one kind of atom, such as oxygen, iron or gold. A compound is made of two or more elements chemically joined together, such as water, which is made of hydrogen and oxygen. Compounds can only be separated by chemical means.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Acids and bases",
+    "question": "What is the difference between an acid and a base?",
+    "answer": "Acids taste sour and turn blue litmus paper red; examples are lemon juice and vinegar. Bases feel slippery and turn red litmus paper blue; examples are soap and baking soda. When an acid and a base react, they can neutralise each other.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Indicators",
+    "question": "What is an indicator?",
+    "answer": "An indicator is a substance that changes colour to show whether a solution is acidic, neutral or basic. Litmus paper is a common indicator. Some plant extracts, such as hibiscus (sobolo) flowers, can also be used as simple indicators.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Force",
+    "question": "What is a force?",
+    "answer": "A force is a push or a pull. Forces can make an object start moving, stop, speed up, slow down or change direction, and they can change an object's shape. Force is measured in newtons (N).",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Friction",
+    "question": "What is friction?",
+    "answer": "Friction is a force that opposes movement between two surfaces that rub against each other. It is useful for walking without slipping and for car brakes, but it also causes wear and produces heat. Oil and smooth surfaces reduce friction.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Gravity",
+    "question": "What is gravity?",
+    "answer": "Gravity is the force of attraction that pulls objects towards each other. On Earth, gravity pulls everything towards the centre of the Earth, which is why objects fall when dropped. The weight of an object is the force of gravity acting on it.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Mass and weight",
+    "question": "What is the difference between mass and weight?",
+    "answer": "Mass is the amount of matter in an object and is measured in kilograms; it stays the same everywhere. Weight is the force of gravity on that mass and is measured in newtons. An astronaut has the same mass on the Moon but a smaller weight.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Forms of energy",
+    "question": "What are some forms of energy?",
+    "answer": "Energy exists in many forms, including heat, light, sound, electrical, chemical, kinetic (movement) and potential (stored) energy. Food and fuels store chemical energy. Energy cannot be created or destroyed, only changed from one form to another.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Energy conversion",
+    "question": "What energy change happens in a torch?",
+    "answer": "In a torch, chemical energy stored in the batteries is changed into electrical energy. The bulb then changes the electrical energy into light energy, with some heat energy produced as well.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Renewable energy",
+    "question": "What is renewable energy?",
+    "answer": "Renewable energy comes from sources that are naturally replaced and will not run out, such as the sun, wind and flowing water. Ghana gets part of its electricity from hydroelectric dams such as Akosombo on the Volta River, which use flowing water. Renewable sources usually cause less pollution than fossil fuels.",
+    "source": "synthetic (Claude), needs teacher review (edited in QA)"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Non-renewable energy",
+    "question": "What is non-renewable energy?",
+    "answer": "Non-renewable energy comes from sources that took millions of years to form and will eventually run out, such as crude oil, natural gas and coal. Burning them releases carbon dioxide, which contributes to climate change.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Electric circuit",
+    "question": "What is a simple electric circuit?",
+    "answer": "A simple electric circuit is a complete path that allows electric current to flow. It usually has a source of energy such as a battery, connecting wires, a switch and a device such as a bulb. If there is a break in the path, current stops and the bulb goes off.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Series and parallel circuits",
+    "question": "What is the difference between a series and a parallel circuit?",
+    "answer": "In a series circuit, all components are connected one after another in a single path, so if one bulb breaks, all go off. In a parallel circuit, components are on separate branches, so one bulb can go off while the others stay on. Houses are wired in parallel.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Magnets",
+    "question": "What are the properties of a magnet?",
+    "answer": "A magnet attracts materials such as iron, nickel and cobalt. Every magnet has a north pole and a south pole; like poles repel each other and unlike poles attract. A freely hanging magnet points in the north-south direction.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Light",
+    "question": "How does light travel?",
+    "answer": "Light travels in straight lines and very fast. Because it travels in straight lines, opaque objects block it and form shadows. Light can be reflected by shiny surfaces like mirrors.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Sound",
+    "question": "How is sound produced?",
+    "answer": "Sound is produced when objects vibrate. The vibrations travel through a medium such as air, water or solids to our ears. Sound cannot travel through a vacuum because there are no particles to carry the vibrations.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "The digestive system",
+    "question": "What is the function of the digestive system?",
+    "answer": "The digestive system breaks down food into small, simple substances that the body can absorb and use. Digestion starts in the mouth with chewing and saliva, continues in the stomach, and is completed in the small intestine, where nutrients pass into the blood.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Balanced diet",
+    "question": "What is a balanced diet?",
+    "answer": "A balanced diet contains all the food nutrients in the right amounts: carbohydrates, proteins, fats and oils, vitamins, minerals and water, plus fibre. For example, a meal of kenkey with fish and vegetables provides carbohydrate, protein and vitamins.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Deficiency diseases",
+    "question": "What is kwashiorkor?",
+    "answer": "Kwashiorkor is a deficiency disease caused by a lack of protein in the diet, common in young children. Signs include a swollen belly, thin arms and legs, and changes in hair colour. It can be prevented by eating protein-rich foods such as beans, eggs, fish and milk.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "The heart",
+    "question": "What does the heart do?",
+    "answer": "The heart is a muscular organ that pumps blood around the body. Blood carries oxygen and nutrients to the cells and takes away waste such as carbon dioxide. The heart beats continuously throughout a person's life.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Personal hygiene",
+    "question": "Why is personal hygiene important?",
+    "answer": "Personal hygiene, such as bathing, brushing teeth and washing hands with soap, removes germs and dirt from the body. It helps prevent diseases like cholera, diarrhoea and skin infections. Good hygiene also helps people feel confident and comfortable.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Cholera",
+    "question": "How can cholera be prevented?",
+    "answer": "Cholera is a disease spread by drinking water or eating food contaminated with the bacteria that cause it. It can be prevented by drinking safe or boiled water, washing hands with soap, covering food and using clean toilets. Early treatment with oral rehydration salts saves lives.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Pollination",
+    "question": "What is pollination?",
+    "answer": "Pollination is the transfer of pollen grains from the anther of a flower to the stigma. It can be done by insects such as bees, by wind or by birds. Pollination is needed before fertilisation can happen and seeds and fruits can form.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Germination",
+    "question": "What conditions do seeds need to germinate?",
+    "answer": "Seeds need water, air (oxygen) and a suitable temperature to germinate. Light is not needed for most seeds to start growing. During germination the seed absorbs water, swells, and the young root and shoot begin to grow.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Pollution",
+    "question": "What is water pollution?",
+    "answer": "Water pollution is when harmful substances get into rivers, lakes or underground water and make it unsafe. Causes include dumping refuse, chemicals from farms and factories, and illegal mining. Polluted water can cause disease and kill fish and other living things.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Climate change",
+    "question": "What is climate change?",
+    "answer": "Climate change is a long-term change in the Earth's weather patterns and temperatures. It is mainly caused by burning fossil fuels and cutting down forests, which add greenhouse gases like carbon dioxide to the air. Effects include more floods, droughts and rising sea levels.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Deforestation",
+    "question": "Why is deforestation harmful?",
+    "answer": "Deforestation is the large-scale cutting down of forests. It destroys habitats for animals and plants, increases soil erosion, reduces rainfall and adds carbon dioxide to the air. Planting trees and protecting forest reserves help reduce these effects.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Rocks",
+    "question": "What are the three main types of rocks?",
+    "answer": "The three main types of rocks are igneous, sedimentary and metamorphic. Igneous rocks form from cooled molten rock, sedimentary rocks form from layers of particles pressed together, and metamorphic rocks form when other rocks are changed by heat and pressure.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "The solar system",
+    "question": "What is the solar system?",
+    "answer": "The solar system is made up of the Sun and everything that orbits it, including eight planets, their moons, asteroids and comets. The Earth is the third planet from the Sun. The Sun is a star and provides light and heat to the planets.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Day and night",
+    "question": "What causes day and night?",
+    "answer": "Day and night are caused by the Earth spinning on its own axis. It completes one rotation about every 24 hours. The side of the Earth facing the Sun has day, while the side facing away from the Sun has night.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Matter",
+    "question": "What is matter?",
+    "answer": "Matter is anything that has mass and occupies space. Everything around us, such as water, air, stones and our bodies, is made of matter. Matter exists mainly as solids, liquids and gases.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Atoms",
+    "question": "What is an atom?",
+    "answer": "An atom is the smallest particle of an element that can take part in a chemical reaction. Atoms are made of protons and neutrons in a central nucleus, with electrons moving around it. All matter is made of atoms.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Particles in solids",
+    "question": "Why do solids have a fixed shape?",
+    "answer": "In a solid, the particles are packed closely together and held by strong forces. They can only vibrate in fixed positions and cannot move around. This is why a solid keeps its own shape.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Diffusion",
+    "question": "What is diffusion?",
+    "answer": "Diffusion is the movement of particles from a region where they are many to a region where they are few, until they spread out evenly. For example, the smell of perfume or fried fish spreads through a room by diffusion.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Density",
+    "question": "Why does a stone sink in water while a piece of wood floats?",
+    "answer": "An object sinks if it is denser than water and floats if it is less dense. A stone packs a lot of mass into a small volume, so it is denser than water and sinks. Most wood is less dense than water, so it floats.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Measurement",
+    "question": "What are the SI units of length, mass and time?",
+    "answer": "The SI unit of length is the metre (m), the unit of mass is the kilogram (kg) and the unit of time is the second (s). Scientists all over the world use these units so that measurements can be compared easily.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Temperature",
+    "question": "How is temperature measured?",
+    "answer": "Temperature is measured with a thermometer and is usually given in degrees Celsius (°C). It tells how hot or cold something is. Normal human body temperature is about 37 °C.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Heat transfer",
+    "question": "What are the three ways heat can be transferred?",
+    "answer": "Heat can be transferred by conduction, convection and radiation. Conduction happens through solids, like a metal spoon getting hot in soup. Convection happens in liquids and gases as warm parts rise, and radiation, like heat from the sun, can travel through empty space.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Conduction",
+    "question": "Why does a metal spoon get hot when left in hot soup?",
+    "answer": "Metals are good conductors of heat. The heat from the soup passes through the spoon by conduction, from the hot end to the cooler end. This is why cooking pots often have plastic or wooden handles, which are poor conductors.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Simple machines",
+    "question": "What is a simple machine?",
+    "answer": "A simple machine is a device that makes work easier by changing the size or direction of a force. Examples include the lever, pulley, inclined plane, wheel and axle, wedge and screw. A cutlass is a wedge and a seesaw is a lever.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Levers",
+    "question": "How does a lever make work easier?",
+    "answer": "A lever is a rigid bar that turns about a fixed point called the pivot or fulcrum. By applying a small effort far from the pivot, a larger load can be moved. Examples are a crowbar, a pair of scissors and a wheelbarrow.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Work",
+    "question": "What is work in science?",
+    "answer": "In science, work is done when a force moves an object in the direction of the force. Work equals force multiplied by distance moved, and it is measured in joules (J). Pushing against a wall that does not move does no work.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Speed",
+    "question": "How do you calculate speed?",
+    "answer": "Speed is the distance travelled divided by the time taken. It is usually measured in metres per second (m/s) or kilometres per hour (km/h). For example, a car that travels 100 km in 2 hours has an average speed of 50 km/h.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Pressure",
+    "question": "What is pressure?",
+    "answer": "Pressure is the force acting on a unit area of a surface. It equals force divided by area and is measured in pascals (Pa). A sharp knife cuts well because its force acts on a very small area, producing high pressure.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Static electricity",
+    "question": "What is static electricity?",
+    "answer": "Static electricity is an electric charge that builds up on the surface of an object, often by rubbing. For example, rubbing a plastic comb on dry hair can make it attract small pieces of paper. Lightning is a large discharge of static electricity.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Electrical safety",
+    "question": "How can we stay safe when using electricity?",
+    "answer": "Never touch switches or sockets with wet hands, do not overload sockets with many appliances, and replace damaged wires. Do not fly kites near power lines. Fuses and circuit breakers help protect homes from electrical fires.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Electromagnet",
+    "question": "What is an electromagnet?",
+    "answer": "An electromagnet is a magnet made by passing electric current through a coil of wire wrapped around an iron core. It is only magnetic when the current is flowing. Electromagnets are used in electric bells, cranes and loudspeakers.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Reflection of light",
+    "question": "What is reflection of light?",
+    "answer": "Reflection is the bouncing back of light when it hits a surface. Smooth, shiny surfaces like mirrors reflect light in a regular way, so we can see clear images in them. We see most objects because light reflects off them into our eyes.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Refraction",
+    "question": "What is refraction of light?",
+    "answer": "Refraction is the bending of light as it passes from one material into another, such as from air into water. This is why a stick partly placed in water looks bent. Lenses in spectacles use refraction to help people see clearly.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Shadows",
+    "question": "How is a shadow formed?",
+    "answer": "A shadow is formed when an opaque object blocks light. Because light travels in straight lines, it cannot bend around the object, leaving a dark area behind it. Shadows are shorter at noon when the sun is overhead.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Echo",
+    "question": "What is an echo?",
+    "answer": "An echo is a sound that is heard again after it reflects off a hard surface such as a wall, cliff or building. Echoes are used by bats and in sonar to find the distance of objects.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "The skeleton",
+    "question": "What are the functions of the human skeleton?",
+    "answer": "The skeleton gives the body its shape and support, protects important organs and allows movement together with muscles. For example, the skull protects the brain and the ribs protect the heart and lungs. Bones also make blood cells and store minerals.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "The respiratory system",
+    "question": "What is the function of the lungs?",
+    "answer": "The lungs take in oxygen from the air we breathe and pass it into the blood. They also remove carbon dioxide from the blood and breathe it out. This exchange of gases happens in tiny air sacs called alveoli.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Blood",
+    "question": "What are the main parts of blood?",
+    "answer": "Blood is made of plasma, red blood cells, white blood cells and platelets. Red blood cells carry oxygen, white blood cells fight infections and platelets help blood to clot when there is a cut. Plasma carries dissolved food and waste.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "The excretory system",
+    "question": "What is excretion?",
+    "answer": "Excretion is the removal of waste products made by the body's activities. The kidneys remove urea and excess water as urine, the lungs remove carbon dioxide, and the skin removes some salts and water as sweat.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Teeth",
+    "question": "What are the types of human teeth and their functions?",
+    "answer": "Humans have incisors for cutting, canines for tearing, premolars and molars for grinding food. Brushing twice a day and eating fewer sugary foods help prevent tooth decay.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Puberty",
+    "question": "What is puberty?",
+    "answer": "Puberty is the stage of life when a child's body develops into an adult body able to reproduce. It usually begins between ages 9 and 15. Changes include growth spurts, voice changes in boys and the start of menstruation in girls.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Immunisation",
+    "question": "Why is immunisation important?",
+    "answer": "Immunisation protects people from serious diseases by training the body's defences with vaccines. Vaccines are given against diseases like measles, polio and tetanus. When many people are immunised, diseases spread less in the community.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "HIV and AIDS",
+    "question": "How is HIV spread and prevented?",
+    "answer": "HIV is spread through infected blood, unprotected sex and from an infected mother to her baby. It is not spread by hugging, shaking hands or sharing meals. It can be prevented by abstinence or safe sex and by not sharing needles or blades.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Drug abuse",
+    "question": "What is drug abuse?",
+    "answer": "Drug abuse is the use of drugs in a harmful way. Examples include taking more of a medicine than the doctor or label says, taking medicine meant for someone else, and using illegal substances like cannabis. It can damage the brain, liver and lungs, affect school work and lead to addiction.",
+    "source": "synthetic (Claude), needs teacher review (edited in QA)"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Malnutrition",
+    "question": "What is malnutrition?",
+    "answer": "Malnutrition is a condition caused by eating too little, too much or the wrong balance of nutrients. It includes undernutrition, such as kwashiorkor, and overnutrition, such as obesity. A balanced diet helps prevent it.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Vitamins",
+    "question": "Why does the body need vitamins?",
+    "answer": "Vitamins are needed in small amounts to keep the body healthy and help it work properly. For example, vitamin A helps eyesight and vitamin C helps fight infections and heal wounds. Fruits and vegetables like oranges and kontomire are good sources.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Food tests",
+    "question": "How can you test a food for starch?",
+    "answer": "Add a few drops of iodine solution to the food. If starch is present, the brown iodine turns blue-black. Foods like cassava, yam and bread give a positive starch test.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Photosynthesis conditions",
+    "question": "What does a plant need for photosynthesis?",
+    "answer": "A plant needs sunlight, carbon dioxide, water and chlorophyll for photosynthesis. Without light, for example in a dark room, the plant cannot make food and will eventually turn yellow and die.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Transpiration",
+    "question": "What is transpiration?",
+    "answer": "Transpiration is the loss of water vapour from a plant, mainly through tiny pores in the leaves called stomata. It helps pull water up from the roots and cools the plant. It is faster on hot, dry and windy days.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Parts of a flower",
+    "question": "What are the main parts of a flower?",
+    "answer": "The main parts of a flower are the sepals, petals, stamens and carpel (pistil). The stamens are the male parts that produce pollen, and the carpel is the female part that contains the ovary. Brightly coloured petals attract insects for pollination.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Seed dispersal",
+    "question": "Why do plants disperse their seeds?",
+    "answer": "Plants disperse seeds to spread them away from the parent plant, so the young plants do not compete for light, water and nutrients. Seeds can be dispersed by wind, water, animals or by the fruit bursting open.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Classification of living things",
+    "question": "How are living things classified?",
+    "answer": "Scientists group living things based on similar features. The main kingdoms include plants, animals, fungi and bacteria. Animals can be grouped into vertebrates, which have a backbone, and invertebrates, which do not.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Vertebrates",
+    "question": "What are the five groups of vertebrates?",
+    "answer": "The five groups of vertebrates are fish, amphibians, reptiles, birds and mammals. For example, tilapia is a fish, a frog is an amphibian, a lizard is a reptile, a fowl is a bird and a goat is a mammal.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Insects",
+    "question": "How can you identify an insect?",
+    "answer": "An insect has a body divided into three parts (head, thorax and abdomen), six legs and a pair of antennae. Most adult insects have wings: bees and grasshoppers have two pairs, while houseflies and mosquitoes have only one pair. Other examples are ants and butterflies.",
+    "source": "synthetic (Claude), needs teacher review (edited in QA)"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Life cycle of a mosquito",
+    "question": "What is the life cycle of a mosquito?",
+    "answer": "A mosquito goes through four stages: egg, larva, pupa and adult. The first three stages happen in stagnant water, which is why clearing water from old tyres, cans and gutters helps control mosquitoes.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Ecosystem",
+    "question": "What is an ecosystem?",
+    "answer": "An ecosystem is a community of living things interacting with each other and with their non-living environment, such as soil, water and air. A pond, a forest and a farm are examples of ecosystems.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Habitat",
+    "question": "What is a habitat?",
+    "answer": "A habitat is the natural home of a plant or animal, where it finds food, water, shelter and space to live. For example, a fish lives in water and a squirrel lives in trees. Destroying habitats threatens the survival of many species.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Soil types",
+    "question": "What are the main types of soil?",
+    "answer": "The main types of soil are sandy soil, clay soil and loamy soil. Sandy soil drains water quickly, clay soil holds water and can become waterlogged, and loamy soil, a mixture of both with humus, is best for growing most crops.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Soil conservation",
+    "question": "How can farmers conserve soil?",
+    "answer": "Farmers can conserve soil by crop rotation, planting cover crops, mulching, adding compost or manure and avoiding bush burning. These methods protect the soil from erosion and keep it fertile.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Crop rotation",
+    "question": "What is crop rotation?",
+    "answer": "Crop rotation is growing different crops on the same piece of land in a planned order over seasons. For example, a farmer may grow maize one season and beans the next. It helps keep the soil fertile and reduces pests and diseases.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Fertilisers",
+    "question": "What is the difference between organic and inorganic fertilisers?",
+    "answer": "Organic fertilisers come from living things, such as compost and animal manure, and also improve the soil's structure. Inorganic fertilisers, like NPK, are made in factories and supply nutrients quickly. Too much inorganic fertiliser can pollute rivers.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Air",
+    "question": "What is air made of?",
+    "answer": "Air is a mixture of gases. It is about 78% nitrogen and 21% oxygen, with small amounts of carbon dioxide, argon and water vapour. Living things need the oxygen in air for respiration.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Air pollution",
+    "question": "What causes air pollution?",
+    "answer": "Air pollution is caused by smoke from vehicles, factories, bush burning and burning refuse, as well as dust. Polluted air can cause breathing problems such as asthma and contributes to climate change. Planting trees and reducing burning help keep air clean.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Waste management",
+    "question": "How can waste be managed properly?",
+    "answer": "Waste can be managed by reducing the amount we produce, reusing items and recycling materials like plastic and metal. Remaining refuse should be collected and disposed of at approved sites. Dumping refuse in gutters causes flooding and disease.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Water purification",
+    "question": "How can water be made safe to drink at home?",
+    "answer": "Boiling water or treating it with chlorine tablets kills most germs and makes it safe to drink. Filtering through a clean cloth or filter removes dirt but does not remove all germs, so filtered water should still be boiled or treated. Store the water in clean, covered containers so it does not become contaminated again.",
+    "source": "synthetic (Claude), needs teacher review (edited in QA)"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Weather and climate",
+    "question": "What is the difference between weather and climate?",
+    "answer": "Weather is the condition of the atmosphere at a particular place and time, such as rain or sunshine today. Climate is the average weather pattern of a place over a long period, usually 30 years or more. Ghana has a tropical climate.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Seasons in Ghana",
+    "question": "What are the main seasons in Ghana?",
+    "answer": "Ghana has rainy seasons and a dry season. Southern Ghana has two rainy seasons, a major one from about April to July and a minor one from about September to November, while northern Ghana has one rainy season from about May to October. The harmattan, a dry and dusty wind from the Sahara, blows mainly between November and March.",
+    "source": "synthetic (Claude), needs teacher review (edited in QA)"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "The Moon",
+    "question": "Why does the Moon seem to change shape?",
+    "answer": "The Moon does not make its own light; it reflects light from the Sun. As the Moon orbits the Earth, we see different amounts of its sunlit side, which we call the phases of the Moon. A full cycle takes about 29.5 days.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Eclipse",
+    "question": "What is a solar eclipse?",
+    "answer": "A solar eclipse happens when the Moon passes directly between the Sun and the Earth, blocking the Sun's light for some places on Earth. It is never safe to look directly at the Sun, even during an eclipse.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Rusting",
+    "question": "What causes rusting?",
+    "answer": "Rusting is the slow reaction of iron with oxygen and water, which forms a reddish-brown substance called rust. It can be prevented by painting, oiling, greasing or galvanising the iron. Rusting weakens metal roofs and tools.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Physical and chemical changes",
+    "question": "What is the difference between a physical change and a chemical change?",
+    "answer": "In a physical change, no new substance is formed and the change can often be reversed, such as melting ice. In a chemical change, a new substance is formed and it is usually hard to reverse, such as burning firewood or cooking an egg.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Burning",
+    "question": "What is needed for a fire to burn?",
+    "answer": "A fire needs fuel, oxygen and heat. This is called the fire triangle. Removing any one of them puts the fire out, for example by covering it with sand to cut off oxygen or by using water to remove heat.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Solutions",
+    "question": "What is a solution?",
+    "answer": "A solution is a mixture in which a substance, called the solute, dissolves completely in a liquid, called the solvent. For example, in sugar solution, sugar is the solute and water is the solvent. Water is often called the universal solvent.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Technology in science",
+    "question": "How does science help in everyday life?",
+    "answer": "Science helps us understand the world and solve problems. It gives us medicines and vaccines, better ways of farming, clean water, electricity and communication tools like mobile phones. Using science responsibly also means protecting the environment.",
+    "source": "synthetic (Claude), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Melting (student phrasing)",
+    "question": "Why does ice melt when I hold it in my hand?",
+    "answer": "Your hand is much warmer than the ice, so heat flows from your hand into the ice. The heat gives the water particles in the ice more energy, so they vibrate faster and break free from their fixed positions. The solid ice then turns into liquid water, which is called melting.",
+    "source": "synthetic (Claude QA batch), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Sobolo as an indicator",
+    "question": "Why does sobolo change colour when baking soda is added to it?",
+    "answer": "Sobolo is made from hibiscus flowers, which contain natural dyes that act as an indicator. Sobolo is acidic, so it is red. Baking soda is a base, and when enough is added the drink becomes less acidic and its colour changes towards purple, blue or green.",
+    "source": "synthetic (Claude QA batch), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Harmattan and dry skin",
+    "question": "Why do my lips crack and my skin feel dry during harmattan?",
+    "answer": "The harmattan wind comes from the Sahara Desert and carries very little water vapour, so the air is very dry. Water evaporates quickly from your skin and lips into this dry air, leaving them dry and cracked. Drinking plenty of water and using shea butter or lip balm helps.",
+    "source": "synthetic (Claude QA batch), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Galamsey and water pollution",
+    "question": "How does galamsey pollute our rivers?",
+    "answer": "Galamsey is illegal small-scale gold mining. Miners dig up land near rivers such as the Pra, Ankobra and Birim, and the mud washes into the water and makes it brown and muddy. Some miners also use mercury, a poisonous metal, which can harm fish and people. This makes the water expensive and difficult to treat for drinking.",
+    "source": "synthetic (Claude QA batch), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Akosombo hydroelectricity",
+    "question": "How does the Akosombo dam produce electricity?",
+    "answer": "The Akosombo dam holds back the Volta River to form Lake Volta, one of the largest man-made lakes in the world. Water from the lake flows down through large turbines and makes them spin. The turbines turn generators, which change the energy of the moving water into electrical energy.",
+    "source": "synthetic (Claude QA batch), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Cocoa fermentation",
+    "question": "Why are cocoa beans fermented and dried before they are sold?",
+    "answer": "After the pods are opened, farmers heap the wet beans and cover them with plantain or banana leaves for about a week. Tiny microorganisms ferment the sweet pulp, which helps the beans develop their chocolate flavour. The beans are then dried in the sun to remove water so they do not go mouldy during storage.",
+    "source": "synthetic (Claude QA batch), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Rusting (student phrasing)",
+    "question": "Why does my cutlass get rusty when I leave it outside in the rain?",
+    "answer": "Your cutlass is made mostly of iron. When iron is left in contact with water and oxygen from the air, it slowly reacts to form reddish-brown rust. Drying the cutlass after use and keeping it oiled or greased keeps water and air away and stops it rusting.",
+    "source": "synthetic (Claude QA batch), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Evaporation (student phrasing)",
+    "question": "Why do clothes on the line dry faster on a sunny, windy day?",
+    "answer": "Wet clothes dry by evaporation, when water changes into water vapour. The heat of the sun gives the water particles more energy so they escape faster. The wind carries the water vapour away from the clothes, so more water can evaporate quickly.",
+    "source": "synthetic (Claude QA batch), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Moon phases (student phrasing)",
+    "question": "Why does the Moon look full and round some nights but like a thin curve on other nights?",
+    "answer": "The Moon does not give out its own light; we see it because it reflects sunlight. As the Moon moves around the Earth, we see different amounts of its sunlit half. When we see all of the lit half it is a full moon, and when we see only a little of it we see a thin crescent.",
+    "source": "synthetic (Claude QA batch), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Mosquito nets",
+    "question": "Why should I sleep under a mosquito net even when I feel healthy?",
+    "answer": "Malaria is spread when an infected female Anopheles mosquito bites a person, and these mosquitoes bite mostly at night. Sleeping under a treated mosquito net stops them from reaching you, so it prevents malaria before you get sick. The insecticide on the net also kills mosquitoes that land on it.",
+    "source": "synthetic (Claude QA batch), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Processing cassava for gari",
+    "question": "Why must cassava be processed before it is eaten as gari?",
+    "answer": "Raw cassava contains natural substances that can release cyanide, a poison. Peeling, grating, leaving the mash to ferment, pressing out the juice and then roasting it removes most of these harmful substances. This makes gari safe to eat and also dries it so it can be stored for a long time.",
+    "source": "synthetic (Claude QA batch), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Crops in northern Ghana",
+    "question": "Why do many farmers in northern Ghana grow millet and sorghum?",
+    "answer": "Northern Ghana has only one rainy season and a long, hot dry season. Millet and sorghum can survive with less water and in high temperatures, so they grow well where rain is limited. This is an example of crops being suited to the climate of an area.",
+    "source": "synthetic (Claude QA batch), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Static electricity in harmattan",
+    "question": "Why do I get small electric shocks from clothes or door handles during harmattan?",
+    "answer": "Rubbing clothes and other materials together makes electric charges build up on them, which is static electricity. In humid weather, moisture in the air helps the charge leak away. During harmattan the air is very dry, so charge builds up more and jumps as a tiny spark when you touch something.",
+    "source": "synthetic (Claude QA batch), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Cooling by evaporation",
+    "question": "Why do I feel cool after a bath even on a hot day?",
+    "answer": "After a bath, water on your skin evaporates. To change from a liquid into a gas, the water needs heat energy, and it takes much of this heat from your skin. Losing this heat makes you feel cool, which is also how sweating cools the body.",
+    "source": "synthetic (Claude QA batch), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Lightning and thunder",
+    "question": "Why do we see lightning before we hear thunder?",
+    "answer": "Lightning and thunder happen at the same time, but light travels much faster than sound. Light reaches your eyes almost instantly, while sound travels only about 340 metres every second in air. The farther away the storm is, the longer the gap between the flash and the thunder.",
+    "source": "synthetic (Claude QA batch), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Gravity (student phrasing)",
+    "question": "Why does a football always come back down when I kick it up into the air?",
+    "answer": "The Earth's gravity pulls the ball towards the centre of the Earth all the time. When you kick the ball up, gravity slows it down until it stops rising, then pulls it back down to the ground. Without gravity, the ball would keep moving away.",
+    "source": "synthetic (Claude QA batch), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Burning plastic refuse",
+    "question": "Why is it harmful to burn plastic rubbish in the house compound?",
+    "answer": "Burning plastic produces thick black smoke and poisonous gases. Breathing in this smoke can cause coughing, asthma attacks and other lung problems, and some of the chemicals can cause serious illness over time. It is better to reduce plastic use, reuse or recycle plastics, and send other refuse to approved collection points.",
+    "source": "synthetic (Claude QA batch), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Salt making at Ada",
+    "question": "How is salt made at the Songor Lagoon near Ada?",
+    "answer": "Salty water from the lagoon is left in shallow pans or pits in the sun. The heat of the sun and the wind make the water evaporate, leaving salt crystals behind. Workers then rake up and collect the salt. This is the separation method called evaporation.",
+    "source": "synthetic (Claude QA batch), needs teacher review"
+  },
+  {
+    "category": "Integrated Science",
+    "name": "Balanced diet (student phrasing)",
+    "question": "Why can't I eat only banku every day if it fills me up?",
+    "answer": "Banku is made from corn and cassava dough, so it is mostly carbohydrate, which gives energy. Your body also needs proteins for growth and repair, plus vitamins and minerals to stay healthy. Eating banku with fish, beans or groundnut soup and vegetables gives a more balanced diet.",
+    "source": "synthetic (Claude QA batch), needs teacher review"
+  }
+]
